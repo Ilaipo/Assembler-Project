@@ -5,10 +5,6 @@ test.c
 test
 assembler
 
-*.ent
-*.ext
-*.ob
-
 # Prerequisites
 *.d
 
